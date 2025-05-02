@@ -34,7 +34,7 @@ header{
  border-bottom: 1px solid#e7e9fc ;
  background-color: #FFFFFF;
 }
-.header-container{
+.container-header{
     display: flex;
 }
 .main-nav{
@@ -195,7 +195,7 @@ header{
     letter-spacing:0.02em;
     text-transform:capitalize;
     display:flex;
-    flex-wrap:column;
+    flex-direction:column;
     margin-bottom: 8px;
 }
 .feature-text{
